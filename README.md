@@ -1,6 +1,6 @@
 # HorseDbServer
 
-This (horse-themed 🐴) two-application project 
+This (horse-themed) two-application project 
 was an exercise in network programming with 
 sockets.
 
