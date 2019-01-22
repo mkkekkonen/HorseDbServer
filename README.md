@@ -4,7 +4,7 @@ This (horse-themed) two-application project
 was an exercise in network programming with 
 sockets.
 
-The server client was coded with with C++. 
+The server was coded with with C++. 
 
 I framed the messages by using fixed-size 
 variables and arrays in both endpoints. I 
