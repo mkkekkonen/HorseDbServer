@@ -2,7 +2,7 @@
 
 This (horse-themed) two-application project 
 was an exercise in network programming with 
-sockets.
+sockets. <a href="https://github.com/mkkekkonen/HorseDbClient/tree/master">The client is here.</a>
 
 The server was coded with with C++. 
 
